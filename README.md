@@ -64,6 +64,4 @@
 
 ---
 
-<p align="center">
-  <em>“Thanks for visiting! May your framerate stay high and your bugs stay low.” 🎯</em>
-</p>
+
